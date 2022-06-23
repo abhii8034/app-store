@@ -22,6 +22,7 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/social-facebook.png',
     category: 'SOCIAL',
+    url: 'https://www.facebook.com/',
   },
   {
     appId: 1,
@@ -29,6 +30,7 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/social-messenger.png',
     category: 'SOCIAL',
+    url: 'https://www.messeger.com/',
   },
   {
     appId: 2,
@@ -36,6 +38,7 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/social-whatsapp.png',
     category: 'SOCIAL',
+    url: 'https://www.whatsapp.com/',
   },
   {
     appId: 3,
@@ -43,6 +46,7 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/social-instagram.png',
     category: 'SOCIAL',
+    url: 'https://www.instagram.com/mavy__8034_',
   },
   {
     appId: 4,
@@ -50,6 +54,7 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/social-snapchat.png',
     category: 'SOCIAL',
+    url: 'https://www.snapchat.com/',
   },
   {
     appId: 5,
@@ -57,6 +62,7 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/social-twitter.png',
     category: 'SOCIAL',
+    url: 'https://www.twitter.com/mavy_8034',
   },
   {
     appId: 6,
@@ -64,6 +70,7 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/social-pinterest.png',
     category: 'SOCIAL',
+    url: 'https://www.pinterest.com/',
   },
   {
     appId: 7,
@@ -71,6 +78,7 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/social-wechat.png',
     category: 'SOCIAL',
+    url: 'https://www.wechat.com/',
   },
   {
     appId: 8,
@@ -78,6 +86,7 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/social-linkedin.png',
     category: 'SOCIAL',
+    url: 'https://www.linkedin.com/in/abhiram8034',
   },
   {
     appId: 9,
@@ -85,6 +94,7 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/social-telegram.png',
     category: 'SOCIAL',
+    url: 'https://web.telegram.org/',
   },
   {
     appId: 10,
@@ -92,6 +102,8 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/games-subway-surfers.png',
     category: 'GAMES',
+    url:
+      'https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en_IN&gl=US',
   },
   {
     appId: 11,
@@ -99,6 +111,8 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/games-crossy-road.png',
     category: 'GAMES',
+    url:
+      'https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=en_IN&gl=US',
   },
   {
     appId: 12,
@@ -106,6 +120,8 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/games-super-chef.png',
     category: 'GAMES',
+    url:
+      'https://play.google.com/store/apps/details?id=com.ministone.game.risingsuperchef2&hl=en_IN&gl=US',
   },
   {
     appId: 13,
@@ -113,6 +129,8 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/games-angry-birds.png',
     category: 'GAMES',
+    url:
+      'https://play.google.com/store/apps/details?id=com.rovio.baba&hl=en_IN&gl=US',
   },
   {
     appId: 14,
@@ -120,6 +138,8 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/games-hill-climb-2.png',
     category: 'GAMES',
+    url:
+      'https://play.google.com/store/apps/details?id=com.fingersoft.hcr2&hl=en_IN&gl=US',
   },
   {
     appId: 15,
@@ -127,6 +147,8 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/games-temple-run.png',
     category: 'GAMES',
+    url:
+      'https://play.google.com/store/apps/details?id=com.imangi.templerun&hl=en_IN&gl=US',
   },
   {
     appId: 16,
@@ -134,6 +156,8 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/games-dr-driving.png',
     category: 'GAMES',
+    url:
+      'https://play.google.com/store/apps/details?id=com.ansangha.drdriving&hl=en_IN&gl=US',
   },
   {
     appId: 17,
@@ -141,6 +165,8 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/games-smurfs-bubble.png',
     category: 'GAMES',
+    url:
+      'https://play.google.com/store/apps/details?id=com.sonypicturestelevision.smurfslostvillage&hl=en_IN&gl=US',
   },
   {
     appId: 18,
@@ -148,6 +174,8 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/games-grade-learning.png',
     category: 'GAMES',
+    url:
+      'https://play.google.com/store/apps/details?id=com.kevinbradford.games.firstgrade&hl=en_IN&gl=US',
   },
   {
     appId: 19,
@@ -155,6 +183,8 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/games-my-talking-tom.png',
     category: 'GAMES',
+    url:
+      'https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=en_IN&gl=US',
   },
   {
     appId: 20,
@@ -162,6 +192,7 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/news-inshorts.png',
     category: 'NEWS',
+    url: 'https://www.inshorts.com/',
   },
   {
     appId: 21,
@@ -169,6 +200,7 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/news-way2news.png',
     category: 'NEWS',
+    url: 'https://www.way2news.com/',
   },
   {
     appId: 22,
@@ -176,6 +208,7 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/news-google-news.png',
     category: 'NEWS',
+    url: 'https://news.google.co.in/',
   },
   {
     appId: 23,
@@ -183,6 +216,7 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/news-flipboard.png',
     category: 'NEWS',
+    url: 'https://flipboard.com/',
   },
   {
     appId: 24,
@@ -190,6 +224,7 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/news-smart-news.png',
     category: 'NEWS',
+    url: 'https://www.smartnews.com/en/',
   },
   {
     appId: 25,
@@ -197,6 +232,7 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/news-bbc-news.png',
     category: 'NEWS',
+    url: 'https://www.bbc.com/news',
   },
   {
     appId: 26,
@@ -204,6 +240,7 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/news-cnn-news.png',
     category: 'NEWS',
+    url: 'https://www.cnn.com/news',
   },
   {
     appId: 27,
@@ -211,6 +248,7 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/news-daily-wire.png',
     category: 'NEWS',
+    url: 'https://www.dailywire.com/',
   },
   {
     appId: 28,
@@ -218,6 +256,7 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/news-ap-news.png',
     category: 'NEWS',
+    url: 'https://www.apnews.com/',
   },
   {
     appId: 29,
@@ -225,6 +264,7 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/news-news-break.png',
     category: 'NEWS',
+    url: 'https://www.newsbreak.com/',
   },
   {
     appId: 30,
@@ -232,6 +272,7 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/food-zomato.png',
     category: 'FOOD',
+    url: 'https://www.zomato.com/',
   },
   {
     appId: 31,
@@ -239,6 +280,7 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/food-swiggy.png',
     category: 'FOOD',
+    url: 'https://www.swiggy.com/',
   },
   {
     appId: 32,
@@ -246,6 +288,7 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/food-dominos.png',
     category: 'FOOD',
+    url: 'https://www.dominos.co.in/',
   },
   {
     appId: 33,
@@ -253,6 +296,7 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/food-all-in-one.png',
     category: 'FOOD',
+    url: 'error',
   },
   {
     appId: 34,
@@ -260,6 +304,7 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/food-insta-cart.png',
     category: 'FOOD',
+    url: 'https://www.instacart.com/',
   },
   {
     appId: 35,
@@ -267,6 +312,7 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/food-saucey.png',
     category: 'FOOD',
+    url: 'https://www.saucey.com/',
   },
   {
     appId: 36,
@@ -274,6 +320,7 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/food-waitr.png',
     category: 'FOOD',
+    url: 'https://waitrapp.com/',
   },
   {
     appId: 37,
@@ -281,6 +328,7 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/food-grubhub.png',
     category: 'FOOD',
+    url: 'https://www.grubhub.com/',
   },
   {
     appId: 38,
@@ -288,12 +336,14 @@ const appsList = [
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/food-mercato.png',
     category: 'FOOD',
+    url: 'https://www.mercato.com/',
   },
   {
     appId: 39,
     appName: 'DOT',
     imageUrl: 'https://assets.ccbp.in/frontend/react-js/app-store/food-dot.png',
     category: 'FOOD',
+    url: 'error',
   },
 ]
 
